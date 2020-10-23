@@ -1,1 +1,1 @@
-🔥 ###FirePaste - Another Paste Service (On Fire!)
+🔥 FirePaste - Another Paste Service (On Fire!)
