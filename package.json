@@ -10,13 +10,14 @@
   "author": "reloonfire",
   "license": "ISC",
   "dependencies": {
+    "csprng": "^0.1.2",
     "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
     "express": "^4.17.1",
     "helmet": "^4.1.1",
     "monk": "^7.3.2",
     "morgan": "^1.10.0",
     "nanoid": "^3.1.15",
-    "pug": "^3.0.0",
     "yup": "^0.29.3"
   }
 }
